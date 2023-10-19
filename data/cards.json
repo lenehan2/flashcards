@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "front": "Question 1",
+    "back": "Answer 1",
+    "tags": ["VPC", "Direct Connect", "Solutions Architect"]
+  },
+  {
+    "id": "2",
+    "front": "Question 2",
+    "back": "Answer 2",
+    "tags": ["Foobar", "Solutions Architect"]
+  },
+  {
+    "id": "3",
+    "front": "Question 3",
+    "back": "Answer 3",
+    "tags": ["VPC", "Baz", "Biz"]
+  },
+  {
+    "id": "4",
+    "front": "Question 4",
+    "back": "Answer 4",
+    "tags": ["Biz", "Something Else"]
+  }
+]
